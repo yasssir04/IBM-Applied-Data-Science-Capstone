@@ -12,7 +12,7 @@ SpaceX is the most successful company of the commercial space age, making space 
 
 📄 Methodology
 1. Data collection methodology
-  - Using SpaceX Rest API
+    - Using SpaceX Rest API
   - Using Web Scrapping from Wikipedia
 2. Performed data wrangling
   - Filtering the data
