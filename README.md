@@ -25,5 +25,5 @@ SpaceX is the most successful company of the commercial space age, making space 
 3. Performed exploratory data analysis (EDA) using visualization and SQL
 4. Performed interactive visual analytics using Folium and Plotly Dash
 5. Performed predictive analysis using classification models(Building, hyperparameter tuning and evaluation of the models to ensure best model is used)
-    - GridsearchCV for finding best parameters
+    - GridSearchCV for finding best parameters
     - used KNN, Decision Tree, SVM, Logistic Regression classification
